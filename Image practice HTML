@@ -1,0 +1,47 @@
+<html>
+
+<head>
+
+<title> Welcome to the do in </title>
+</head>
+
+<body bgcolor="pink">
+
+<font size ="5px" color="red" face="PTsans">
+
+<h> <p align="center"> Welcome to the do in</p></h>
+
+</font>
+
+<font size="2px" color="green" face="tahoa">
+
+<h1> <p align="center"> Hi I'm Aryan Kumar </p></h1>
+ 
+</font>
+
+<font size="3px" color="sky blue">
+
+<h2> <p align="center"> I'm studying class 12 in 
+Sanatan Dharam inter collage Nai sarak Varanasi</p></h2>
+
+</font>
+
+<font size="6px" color="sea green">
+
+<h3> <p align="center"> Yeah it's me </p></h3>
+
+</font>
+
+<font size="5px" color="orange">
+
+<h4> Work hard in silence and let your Lamborghini make the noice  </h4>
+
+</font>
+
+<p align="center"> 
+
+<img  src="C:\Users\Public\Pictures\Sample Pictures JPEG image.jpg"alt="Aryan image (my photo)" height="500" /> </p></font>
+
+</body>
+
+</html>
