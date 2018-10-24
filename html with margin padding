@@ -1,0 +1,67 @@
+<html>
+<head>
+      <Style>
+   
+   #div1{
+          width:400px;
+          height:auto;
+          border:3px double blue;
+          background: orange;
+          margie:5px auto;
+       }
+   #div2{
+          background: silver;
+          width:210px;
+          height:auto;
+          margin:7px auto;
+       }  
+  #banner{
+           width:150px;
+           height:auto;
+           margin:auto;
+        }
+   #banner img{ 
+                width:180px;
+                height:auto;
+             }
+   #news { 
+           width:350px;
+           height:200px;
+           border:2px solid black;
+        }
+    p{
+       padding:25px;
+    }
+    
+     </style>
+     </head>
+     
+   <body>
+   
+   <div id="div1">
+   
+   <div id="div2">
+   
+   <img src="image/Jayesh1.jpg" alt="logo" width="50px"/>
+   
+   <h1> Welcome to Aryan's web page</h1>
+   
+  </div>
+  
+  <div id="banner">
+  
+  <img scr="image/Jayesh.jpg" alt="banner"/>
+  
+  </div>
+  
+  <div class="div4">
+  <p> Hi this is Aryan student of A.R.S. educateds</p>
+  
+  </div>
+  
+  <div id="news"> <h2> Latest updates </h2>
+  
+  </div>
+  
+  </body>
+  </html>
